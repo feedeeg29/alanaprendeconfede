@@ -1,0 +1,28 @@
+#entrega {
+    display: flex;
+    justify-content: center;
+}
+
+.elDiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 1px solid black;
+}
+
+
+.elNombre {
+    border: 1px solid black;
+}
+
+.elPrecio {
+    border: 1px solid black;
+}
+
+.laCategoria {
+    border: 1px solid black;
+}
+
+.laImagen {
+    border: 1px solid black;
+}
